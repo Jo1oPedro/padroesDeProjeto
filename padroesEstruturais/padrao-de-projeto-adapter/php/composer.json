@@ -1,0 +1,17 @@
+{
+    "name": "adapter/php",
+    "autoload": {
+        "psr-4": {
+            "Adapter\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jo1oPedro",
+            "email": "joao.pedreira@estudante.ufjf.br"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}

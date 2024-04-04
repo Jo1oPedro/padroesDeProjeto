@@ -1,0 +1,25 @@
+{
+    "name": "singleton/php",
+    "autoload": {
+        "psr-4": {
+            "Singleton\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoaoPedroFerreiraPedreira",
+            "email": "joao.pedreira@estudante.ufjf.br"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "config": {
+        "platform": {
+            "php": "8.2"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}

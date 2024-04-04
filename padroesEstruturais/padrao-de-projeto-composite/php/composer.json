@@ -1,0 +1,20 @@
+{
+    "name": "composite/php",
+    "autoload": {
+        "psr-4": {
+            "Composite\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jo1oPedro",
+            "email": "joao.pedreira@estudante.ufjf.br"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    },
+    "require": {
+        "ext-ds": "*"
+    }
+}

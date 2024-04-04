@@ -1,0 +1,22 @@
+{
+    "name": "prototype/php",
+    "autoload": {
+        "psr-4": {
+            "Prototype\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JoaoPedroFPedreira",
+            "email": "joaopedro.ferreira.oruc@gmail.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "8.2"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.3"
+    }
+}

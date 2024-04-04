@@ -1,0 +1,17 @@
+{
+    "name": "iterator/php",
+    "autoload": {
+        "psr-4": {
+            "Iterator\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jo1oPedro",
+            "email": "joao.pedreira@estudante.ufjf.br"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}

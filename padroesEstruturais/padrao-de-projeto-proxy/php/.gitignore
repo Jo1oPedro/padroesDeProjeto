@@ -1,0 +1,4 @@
+/vendor
+/UnitLog
+/coverage
+/.phpunit.result.cache

@@ -1,0 +1,3 @@
+Partida (Adapter\tests\unit\Partida)
+ [x] Deve retornar dano porcentagem
+

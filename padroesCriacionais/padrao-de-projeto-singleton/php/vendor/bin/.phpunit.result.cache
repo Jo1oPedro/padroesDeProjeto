@@ -1,0 +1,1 @@
+{"version":1,"defects":{"singleton\\php\\EmailTest::testDeveRetornarUmaInstanciaDeEmail":5},"times":{"singleton\\php\\EmailTest::testDeveRetornarUmaInstanciaDeEmail":0.011,"singleton\\php\\EmailTest::testDeveRetornarMesmoObjetoEmailSempre":0.001,"singleton\\php\\EmailTest::testDeveLancarEmailComSucesso":0.001}}

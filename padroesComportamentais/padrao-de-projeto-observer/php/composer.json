@@ -1,0 +1,17 @@
+{
+    "name": "observer/php",
+    "autoload": {
+        "psr-4": {
+            "Observer\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jo1oPedro",
+            "email": "joao.pedreira@estudante.ufjf.br"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.4"
+    }
+}

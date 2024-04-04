@@ -1,0 +1,1 @@
+{"version":1,"defects":{"tests\\UsuarioTest::testDeveRetornarExcecaoParaNomeInvalido":7},"times":{"tests\\UsuarioTest::testDeveRetornarExcecaoParaNomeInvalido":0.271,"tests\\UsuarioTest::testDeveRetornarExcecaoParaEmailInvalido":0.006,"tests\\UsuarioTest::testDeveRetornarExcecaoParaSenhaInv\u00e1lida":0.004,"tests\\UsuarioTest::testDeveRetornarUsuarioComSucesso":0.035}}
